@@ -1,3 +1,4 @@
 luggage
-
+Equipaje
 A bag or backpack that is carried along during travels.
+Un bolso o mochila que se lleva consigo durante un viaje.
