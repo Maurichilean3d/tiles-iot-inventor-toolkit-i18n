@@ -1,3 +1,4 @@
 clothing
-
+Vestuario
 Any piece of ordinary clothing, for example a sweater, a pair of trousers or a shirt.
+Cualquier pieza de ropa común, por ejemplo un chaleco, un par de pantalones o camisa.
