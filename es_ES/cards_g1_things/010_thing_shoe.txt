@@ -1,3 +1,4 @@
 shoe
-
+zapatos
 Shoes or some part of a shoe, for example the shoelaces or the sole.
+zapatos o alguna parte de un zapato, por ejemplo los cordones o la suela.
