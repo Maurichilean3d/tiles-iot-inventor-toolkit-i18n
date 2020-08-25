@@ -1,3 +1,4 @@
 keychain
-
+llavero
 A keychain or a key.
+Un llavero o una llave.
