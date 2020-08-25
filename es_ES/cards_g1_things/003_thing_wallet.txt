@@ -1,3 +1,4 @@
 wallet
-
+Billetera
 A wallet, purse or card case used to carry money and credit cards.
+Una billetera, bolso o chequera usada para llevar dinero y targetas de crédito.
