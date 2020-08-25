@@ -1,3 +1,4 @@
 pen or pencil
-
+Bolígrafo o Lapíz
 A writing tool, for example a pen, a pencil or a marker.
+Una herramienta de escritura, por ejmeplo un bolígrafo, un lapíz o marcador.
