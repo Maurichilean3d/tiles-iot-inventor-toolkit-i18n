@@ -1,3 +1,4 @@
 bike
-
+Bici
 A bicycle, a part of it, or some other object used in conjunction, for example a helmet or a lock.
+Una Bicicleta, una parte de ella, o algun otro objeto que se usa en conjunto con, por ejemplo un casco o un candado.
