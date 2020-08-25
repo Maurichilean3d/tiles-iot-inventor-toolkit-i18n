@@ -1,3 +1,4 @@
 watch
-
+reloj
 An ordinary wristwatch.
+Un reloj de pulsera común.
